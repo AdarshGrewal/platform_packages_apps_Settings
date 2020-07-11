@@ -16,6 +16,9 @@
 
      <!-- Device specific doze package -->
      <string name="config_customDozePackage" translatable="false"></string>
+     
+     <!-- Screen off FOD -->
+     <bool name="config_supportScreenOffFod">false</bool>
 
      <!-- Whether to add AGPS parameter settings -->
      <bool name="config_agps_enabled">true</bool>
